@@ -1,5 +1,3 @@
-# mandabm-law
- website for M&amp;ABM Consultancy and Law Firm
 # M&ABM Consultancy and Law Firm Website
 
 This repository contains the website code for M&ABM Consultancy and Law Firm, specializing in International Law, Human Rights, and Global Justice.
